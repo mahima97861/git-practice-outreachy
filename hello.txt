@@ -4,4 +4,4 @@ Today I learned Git.
 
 Today I learned Git.
 
-Git is amazing.
+Git is powerful.
