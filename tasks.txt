@@ -1,0 +1,6 @@
+Git Basics - Completed
+Branches - Completed
+Merge - Completed
+GitHub Push - Completed
+Branch Practice - Completed
+Remote Repository - Completed
