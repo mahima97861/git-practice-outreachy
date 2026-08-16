@@ -11,6 +11,7 @@ This is my mini Git project for practicing Git and GitHub.
 - Commits
 - Remote repositories
 
+<<<<<<< HEAD
 ## Git Workflow
 
 This repository is used to practice Git and GitHub workflows
@@ -26,3 +27,9 @@ for open-source contribution.
 6. Push the branch
 7. Create a Pull Request
 8. Respond to review feedback
+=======
+## Outreachy Git Practice
+
+This repository is being used to practice Git and GitHub
+open-source contribution workflows.
+>>>>>>> master
